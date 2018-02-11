@@ -1,0 +1,14 @@
+Manage the following:
+-Render transparent pixels (as in dont render)
+(-while being able to resize tiles and entities)
+(-and being efficient (so no creaiton of huge arrays or drawing)
+IF VIEW MULTIPLIER IS CONSTANT:
+http://stackoverflow.com/questions/3448347/how-to-scale-an-imagedata-in-html-canvas
+
+Invisible:
+http://stackoverflow.com/questions/11611549/transparent-pixels-using-html5-canvas-and-getimagedata
+
+
+-Draw entities (while rotating them) and rendering them transparent (Above)
+-Projectiles
+-Collisions
